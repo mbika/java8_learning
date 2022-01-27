@@ -2,7 +2,7 @@ package com.technostack.example.consumer;
 
 import java.util.function.Consumer;
 
-public class Consumer_FunctionInterface_Demo1 {
+public class Consumer_FunctionalInterfaces_Demo1 {
 
 //	This is a functional interface and can therefore be used as the assignment target 
 //  for a lambda expression or method reference.
